@@ -257,7 +257,7 @@ p {
   flex-direction: column;
   justify-content: space-between;
   padding: 20px;
-  background-color: #fff;;
+  background-color: #fff;
   height: 100%;
 }
 
@@ -675,6 +675,7 @@ form {
 }
 
 /* pop up card styles */
+
 /* desktop styles */
 .popup-card {
   position: fixed;
@@ -827,4 +828,3 @@ form {
     cursor: pointer;
   }
 }
-
